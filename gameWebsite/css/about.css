@@ -1,4 +1,6 @@
-.main{
+body {
+    background-color: rgb(49, 19, 19);
+}
+.col-1 {
     width: 100%;
-    background-color: #2d2828;
 }
