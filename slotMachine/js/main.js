@@ -88,7 +88,7 @@
           boxes.style.transform = 'translateY(0)';
           await new Promise((resolve) => setTimeout(resolve, duration * 100));
         }
-      }
+    }
     
       function shuffle([...arr]) {
         let m = arr.length;
